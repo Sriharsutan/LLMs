@@ -1,0 +1,8 @@
+langchain-core
+langchain-community
+langchain-huggingface
+transformers
+accelerate
+ipython
+ipykernel
+beautifulsoup4
