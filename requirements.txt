@@ -6,3 +6,7 @@ accelerate
 ipython
 ipykernel
 beautifulsoup4
+sentence-transformers
+faiss-cpu
+chromadb
+streamlit
